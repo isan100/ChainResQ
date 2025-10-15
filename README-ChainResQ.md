@@ -71,9 +71,5 @@ Use Polkadot.js dApp or frontend React app to connect wallet and interact with t
 - [ ] Multisig payout option for large disbursements
 - [ ] Integration with oracle feeds
 
-## Disclaimer
-
-This project is a **proof of concept**.  
-It must be thoroughly audited and tested before any production or real fund deployment.
 
 ---
